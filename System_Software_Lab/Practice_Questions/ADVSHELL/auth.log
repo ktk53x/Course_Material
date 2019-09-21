@@ -1,0 +1,258 @@
+Sep 25 01:17:02 sonal CRON[23854]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 01:17:02 sonal CRON[23854]: pam_unix(cron:session): session closed for user root
+Sep 25 01:20:02 sonal CRON[23895]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 01:20:02 sonal CRON[23895]: pam_unix(cron:session): session closed for user sonal
+Sep 25 01:28:09 sonal pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Sep 25 01:28:09 sonal pkexec[23966]: sonal: Executing command [USER=root] [TTY=unknown] [CWD=/home/sonal] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Sep 25 01:30:01 sonal CRON[23984]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 01:30:01 sonal CRON[23984]: pam_unix(cron:session): session closed for user sonal
+Sep 25 01:40:01 sonal CRON[24055]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 01:40:01 sonal CRON[24055]: pam_unix(cron:session): session closed for user sonal
+Sep 25 01:50:01 sonal CRON[24126]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 01:50:01 sonal CRON[24126]: pam_unix(cron:session): session closed for user sonal
+Sep 25 01:55:17 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:00:02 sonal CRON[24270]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 02:00:02 sonal CRON[24270]: pam_unix(cron:session): session closed for user sonal
+Sep 25 02:10:01 sonal CRON[24348]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 02:10:01 sonal CRON[24348]: pam_unix(cron:session): session closed for user sonal
+Sep 25 02:12:52 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:13:53 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:13:54 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:14:15 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:14:16 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:14:18 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:14:19 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:17:01 sonal CRON[24897]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 02:17:01 sonal CRON[24897]: pam_unix(cron:session): session closed for user root
+Sep 25 02:20:01 sonal CRON[24923]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 02:20:01 sonal CRON[24923]: pam_unix(cron:session): session closed for user sonal
+Sep 25 02:20:04 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:20:06 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:20:26 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:20:27 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:20:38 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:20:40 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:22:02 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:22:03 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:22:47 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:22:54 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 02:23:02 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 10:45:19 sonal systemd-logind[799]: Operation finished.
+Sep 25 10:45:27 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 10:45:31 sonal compiz: gkr-pam: unlocked login keyring
+Sep 25 10:45:40 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 10:45:41 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 10:50:01 sonal CRON[26464]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 10:50:01 sonal CRON[26464]: pam_unix(cron:session): session closed for user sonal
+Sep 25 10:54:39 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 10:54:40 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 10:54:51 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 10:54:52 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 10:58:23 sonal sudo:    sonal : TTY=pts/10 ; PWD=/home/sonal/Downloads/SD_LAb_2018/Assignment_4 ; USER=root ; COMMAND=/bin/su
+Sep 25 10:58:23 sonal sudo: pam_unix(sudo:session): session opened for user root by sonal(uid=0)
+Sep 25 10:58:23 sonal su[26851]: Successful su for root by root
+Sep 25 10:58:23 sonal su[26851]: + /dev/pts/10 root:root
+Sep 25 10:58:23 sonal su[26851]: pam_unix(su:session): session opened for user root by sonal(uid=0)
+Sep 25 10:59:00 sonal su[26851]: pam_unix(su:session): session closed for user root
+Sep 25 10:59:00 sonal sudo: pam_unix(sudo:session): session closed for user root
+Sep 25 10:59:23 sonal sudo:    sonal : TTY=pts/10 ; PWD=/home/sonal ; USER=root ; COMMAND=/bin/su
+Sep 25 10:59:23 sonal sudo: pam_unix(sudo:session): session opened for user root by sonal(uid=0)
+Sep 25 10:59:23 sonal su[26871]: Successful su for root by root
+Sep 25 10:59:23 sonal su[26871]: + /dev/pts/10 root:root
+Sep 25 10:59:23 sonal su[26871]: pam_unix(su:session): session opened for user root by sonal(uid=0)
+Sep 25 10:59:36 sonal sudo:     root : TTY=pts/10 ; PWD=/root ; USER=root ; COMMAND=/bin/su
+Sep 25 10:59:36 sonal sudo: pam_unix(sudo:session): session opened for user root by sonal(uid=0)
+Sep 25 10:59:36 sonal su[26892]: Successful su for root by root
+Sep 25 10:59:36 sonal su[26892]: + /dev/pts/10 root:root
+Sep 25 10:59:36 sonal su[26892]: pam_unix(su:session): session opened for user root by sonal(uid=0)
+Sep 25 11:00:02 sonal CRON[26905]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 11:00:02 sonal CRON[26905]: pam_unix(cron:session): session closed for user sonal
+Sep 25 11:10:01 sonal CRON[27011]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 11:10:01 sonal CRON[27011]: pam_unix(cron:session): session closed for user sonal
+Sep 25 11:17:01 sonal CRON[27071]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 11:17:02 sonal CRON[27071]: pam_unix(cron:session): session closed for user root
+Sep 25 11:19:11 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 11:19:14 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 11:20:01 sonal CRON[27232]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 11:20:01 sonal CRON[27232]: pam_unix(cron:session): session closed for user sonal
+Sep 25 11:30:01 sonal CRON[27332]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 11:30:02 sonal CRON[27332]: pam_unix(cron:session): session closed for user sonal
+Sep 25 11:40:01 sonal CRON[27492]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 11:40:01 sonal CRON[27492]: pam_unix(cron:session): session closed for user sonal
+Sep 25 11:50:01 sonal CRON[27579]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 11:50:01 sonal CRON[27579]: pam_unix(cron:session): session closed for user sonal
+Sep 25 12:00:01 sonal CRON[27717]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 12:00:01 sonal CRON[27717]: pam_unix(cron:session): session closed for user sonal
+Sep 25 12:05:06 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 12:05:11 sonal systemd-logind[799]: Delay lock is active but inhibitor timeout is reached.
+Sep 25 12:21:52 sonal systemd-logind[799]: Operation finished.
+Sep 25 12:22:06 sonal compiz: gkr-pam: unlocked login keyring
+Sep 25 12:22:45 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 12:22:57 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 12:22:59 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 12:23:47 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 12:23:48 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 12:24:09 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 12:24:11 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 12:25:24 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 12:25:25 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 12:30:02 sonal CRON[28951]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 12:30:02 sonal CRON[28951]: pam_unix(cron:session): session closed for user sonal
+Sep 25 12:40:01 sonal CRON[29098]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 12:40:01 sonal CRON[29098]: pam_unix(cron:session): session closed for user sonal
+Sep 25 12:41:46 sonal su[26892]: pam_unix(su:session): session closed for user root
+Sep 25 12:41:46 sonal sudo: pam_unix(sudo:session): session closed for user root
+Sep 25 12:41:51 sonal su[26871]: pam_unix(su:session): session closed for user root
+Sep 25 12:41:51 sonal sudo: pam_unix(sudo:session): session closed for user root
+Sep 25 12:50:01 sonal CRON[29339]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 12:50:01 sonal CRON[29339]: pam_unix(cron:session): session closed for user sonal
+Sep 25 12:52:31 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 12:52:55 sonal systemd-logind[799]: Operation finished.
+Sep 25 12:53:17 sonal compiz: gkr-pam: unlocked login keyring
+Sep 25 13:00:01 sonal CRON[30131]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 13:00:01 sonal CRON[30131]: pam_unix(cron:session): session closed for user sonal
+Sep 25 13:08:58 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 13:10:01 sonal CRON[30485]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 13:10:01 sonal CRON[30485]: pam_unix(cron:session): session closed for user sonal
+Sep 25 13:16:54 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 13:16:55 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 13:17:01 sonal CRON[30707]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 13:17:01 sonal CRON[30707]: pam_unix(cron:session): session closed for user root
+Sep 25 13:17:38 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 13:17:39 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 13:20:01 sonal CRON[30923]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 13:20:01 sonal CRON[30923]: pam_unix(cron:session): session closed for user sonal
+Sep 25 13:20:56 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 13:30:02 sonal CRON[31128]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 13:30:02 sonal CRON[31128]: pam_unix(cron:session): session closed for user sonal
+Sep 25 13:40:01 sonal CRON[31334]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 13:40:01 sonal CRON[31334]: pam_unix(cron:session): session closed for user sonal
+Sep 25 13:50:01 sonal CRON[31441]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 13:50:01 sonal CRON[31441]: pam_unix(cron:session): session closed for user sonal
+Sep 25 14:00:01 sonal CRON[31633]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 14:00:01 sonal CRON[31633]: pam_unix(cron:session): session closed for user sonal
+Sep 25 14:03:42 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 14:04:42 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 14:04:43 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 14:10:01 sonal CRON[31978]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 14:10:01 sonal CRON[31978]: pam_unix(cron:session): session closed for user sonal
+Sep 25 14:17:02 sonal CRON[32104]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 14:17:02 sonal CRON[32104]: pam_unix(cron:session): session closed for user root
+Sep 25 14:20:01 sonal CRON[32133]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 14:20:01 sonal CRON[32133]: pam_unix(cron:session): session closed for user sonal
+Sep 25 14:30:01 sonal CRON[32210]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 14:30:01 sonal CRON[32210]: pam_unix(cron:session): session closed for user sonal
+Sep 25 14:40:01 sonal CRON[32378]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 14:40:01 sonal CRON[32378]: pam_unix(cron:session): session closed for user sonal
+Sep 25 14:50:01 sonal CRON[32495]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 14:50:01 sonal CRON[32495]: pam_unix(cron:session): session closed for user sonal
+Sep 25 14:51:17 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 14:51:21 sonal systemd-logind[799]: Delay lock is active but inhibitor timeout is reached.
+Sep 25 14:54:54 sonal systemd-logind[799]: Operation finished.
+Sep 25 14:54:57 sonal compiz: gkr-pam: unlocked login keyring
+Sep 25 14:57:50 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 14:58:00 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 14:58:01 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:00:01 sonal CRON[926]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 15:00:02 sonal CRON[926]: pam_unix(cron:session): session closed for user sonal
+Sep 25 15:10:01 sonal CRON[1005]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 15:10:01 sonal CRON[1005]: pam_unix(cron:session): session closed for user sonal
+Sep 25 15:13:09 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:13:11 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:13:21 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:13:23 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:13:56 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:13:57 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:14:07 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:14:09 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:14:35 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:14:36 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:17:01 sonal CRON[1776]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 15:17:01 sonal CRON[1776]: pam_unix(cron:session): session closed for user root
+Sep 25 15:17:17 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:17:19 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:18:46 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:20:01 sonal CRON[2269]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 15:20:02 sonal CRON[2269]: pam_unix(cron:session): session closed for user sonal
+Sep 25 15:30:01 sonal CRON[2359]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 15:30:01 sonal CRON[2359]: pam_unix(cron:session): session closed for user sonal
+Sep 25 15:34:28 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:36:31 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:36:33 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:36:43 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:36:44 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:40:01 sonal CRON[2827]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 15:40:01 sonal CRON[2827]: pam_unix(cron:session): session closed for user sonal
+Sep 25 15:46:19 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:46:21 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 15:50:02 sonal CRON[3299]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 15:50:02 sonal CRON[3299]: pam_unix(cron:session): session closed for user sonal
+Sep 25 16:00:01 sonal CRON[3353]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 16:00:01 sonal CRON[3353]: pam_unix(cron:session): session closed for user sonal
+Sep 25 16:10:01 sonal CRON[3409]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 16:10:01 sonal CRON[3409]: pam_unix(cron:session): session closed for user sonal
+Sep 25 16:17:01 sonal CRON[3451]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 16:17:01 sonal CRON[3451]: pam_unix(cron:session): session closed for user root
+Sep 25 16:20:01 sonal CRON[3464]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 16:20:01 sonal CRON[3464]: pam_unix(cron:session): session closed for user sonal
+Sep 25 16:30:01 sonal CRON[3526]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 16:30:02 sonal CRON[3526]: pam_unix(cron:session): session closed for user sonal
+Sep 25 16:40:01 sonal CRON[3587]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 16:40:01 sonal CRON[3587]: pam_unix(cron:session): session closed for user sonal
+Sep 25 16:49:45 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 16:49:48 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 16:49:51 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 16:49:53 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 16:50:01 sonal CRON[3882]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 16:50:01 sonal CRON[3882]: pam_unix(cron:session): session closed for user sonal
+Sep 25 17:00:01 sonal CRON[3953]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 17:00:01 sonal CRON[3953]: pam_unix(cron:session): session closed for user sonal
+Sep 25 17:10:01 sonal CRON[4009]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 17:10:01 sonal CRON[4009]: pam_unix(cron:session): session closed for user sonal
+Sep 25 17:17:01 sonal CRON[4048]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 17:17:02 sonal CRON[4048]: pam_unix(cron:session): session closed for user root
+Sep 25 17:20:01 sonal CRON[4065]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 17:20:01 sonal CRON[4065]: pam_unix(cron:session): session closed for user sonal
+Sep 25 17:30:01 sonal CRON[4115]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 17:30:01 sonal CRON[4115]: pam_unix(cron:session): session closed for user sonal
+Sep 25 17:30:02 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 17:30:05 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 17:38:11 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 17:38:13 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 17:40:01 sonal CRON[4435]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 17:40:01 sonal CRON[4435]: pam_unix(cron:session): session closed for user sonal
+Sep 25 17:46:29 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 17:46:30 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 17:47:03 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 17:47:04 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 17:47:08 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 17:47:10 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 17:50:01 sonal CRON[4970]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 17:50:01 sonal CRON[4970]: pam_unix(cron:session): session closed for user sonal
+Sep 25 18:00:01 sonal CRON[5025]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 18:00:01 sonal CRON[5025]: pam_unix(cron:session): session closed for user sonal
+Sep 25 18:05:27 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 18:05:29 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 18:10:02 sonal CRON[5239]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 18:10:02 sonal CRON[5239]: pam_unix(cron:session): session closed for user sonal
+Sep 25 18:17:01 sonal CRON[5291]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 18:17:01 sonal CRON[5291]: pam_unix(cron:session): session closed for user root
+Sep 25 18:20:02 sonal CRON[5315]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 18:20:02 sonal CRON[5315]: pam_unix(cron:session): session closed for user sonal
+Sep 25 18:30:01 sonal CRON[5384]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 18:30:01 sonal CRON[5384]: pam_unix(cron:session): session closed for user sonal
+Sep 25 18:40:01 sonal CRON[5467]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 18:40:01 sonal CRON[5467]: pam_unix(cron:session): session closed for user sonal
+Sep 25 18:50:01 sonal CRON[5551]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 18:50:01 sonal CRON[5551]: pam_unix(cron:session): session closed for user sonal
+Sep 25 18:54:33 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")
+Sep 25 18:54:36 sonal systemd-logind[799]: Delay lock is active but inhibitor timeout is reached.
+Sep 25 19:04:31 sonal systemd-logind[799]: Operation finished.
+Sep 25 19:04:52 sonal compiz: gkr-pam: unlocked login keyring
+Sep 25 19:10:04 sonal CRON[6229]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 19:10:05 sonal CRON[6229]: pam_unix(cron:session): session closed for user sonal
+Sep 25 19:17:01 sonal CRON[6325]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 19:17:01 sonal CRON[6325]: pam_unix(cron:session): session closed for user root
+Sep 25 19:20:01 sonal CRON[6363]: pam_unix(cron:session): session opened for user sonal by (uid=0)
+Sep 25 19:20:01 sonal CRON[6363]: pam_unix(cron:session): session closed for user sonal
+Sep 25 19:20:44 sonal dbus[714]: [system] Rejected send message, 7 matched rules; type="method_return", sender=":1.86" (uid=0 pid=2934 comm="/usr/sbin/dnsmasq --no-resolv --keep-in-foreground") interface="(unset)" member="(unset)" error name="(unset)" requested_reply="0" destination=":1.4" (uid=0 pid=821 comm="NetworkManager ")

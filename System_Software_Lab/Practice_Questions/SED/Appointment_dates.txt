@@ -1,0 +1,7 @@
+Appointments:
+haircut   August 12, 2018
+Satish farewell party   March 11, 2018  (don't forget to bring food)
+sleep   never
+Phd work in RS-1 lab      June 28, 2015 through June 24, 2019
+prepare CS 241 homework assignment on September 20, 2018
+the end
