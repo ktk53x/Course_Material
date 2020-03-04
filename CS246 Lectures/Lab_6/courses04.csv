@@ -1,0 +1,354 @@
+BT101 ,Introductory Biology                                       
+BT206 ,MicroBiology                                               
+BT207 ,Genetic Engineering                                        
+BT208 ,Transport Phenomenon in Bioprocesses                       
+BT209 ,BioReaction Engineering                                    
+BT302 ,Biochemical Engineering                                    
+BT302M,BioProcess Technology                                      
+BT305 ,Industrial Microbiology                                    
+BT306 ,IPR Ethics and Bio-safety                                  
+BT308 ,Animal Cell Biotechnology                                  
+BT401 ,Frontiers in Biotechnology                                 
+BT502 ,Quantitative Biology                                       
+BT504 ,Biomolecular and Cellular Process Engineering              
+BT601 ,Analytical Biotechnology                                   
+BT617 ,Concepts and Methods in Proteomics                         
+BT619 ,Essential of Genetics                                      
+BT621 ,Advances in Plant Genetic Engg. & Functional Genomics      
+BT623 ,Research Methodology                                       
+BT630 ,Physical Cell Biology                                      
+BT632 ,Stem Cells Cancer and Therapy                              
+BT634 ,Animal Models in Biomedical Research                       
+BT638 ,Cellular And Molecular Aspects of Aging                    
+BT642 ,Alternatice Splicing And Diseases                          
+CE201 ,Surveying                                                  
+CE205 ,Structural Analysis I                                      
+CE206 ,Geotechnical Engg. I                                       
+CE220 ,Hydraulics & Hydraulic Structure                           
+CE222 ,Environmental Engg. I                                      
+CE308 ,Construction Technology and Management                     
+CE309 ,Design of Steel Structures                                 
+CE320 ,Engineering Hydrology                                      
+CE322 ,Transportation Engineering II                              
+CE324 ,Engineering Geology                                        
+CE504 ,Advanced Structural Design                                 
+CE510 ,Quality And Safety Management In Construction              
+CE511 ,Analysis and Design of Bridges                             
+CE514 ,Plates Shells And Elastic Stability                        
+CE524 ,Biological Processes in Environmental Engg.                
+CE525 ,Solid and Hazardous Waste Management                       
+CE533 ,Advanced Foundation Engg.                                  
+CE552 ,Water Resources Systems AnalysisPlanning & Management      
+CE555 ,Principles of Water Quality & EIA                          
+CE556 ,Subsurface Hydrology                                       
+CE561 ,Water Power Engineering                                    
+CE562 ,Transient Flow Analysis                                    
+CE567 ,Sediment Dynamic in Fluvial Systems                        
+CE583 ,Pavement Analysis and Design                               
+CE584 ,Traffic Engineering                                        
+CE594 ,Geohazard Science and Engineering                          
+CE595 ,Advanced Techniques in Geoscience                          
+CE606 ,Earthquake Engineering                                     
+CE607 ,Random Vibration                                           
+CE608 ,Reliability based Structural Design                        
+CE612 ,Advanced Concrete Technology                               
+CE614 ,Financing Infrastructure Projects                          
+CE615 ,Design of Masonry Structures                               
+CE618 ,Mechanics of Unsaturated Soils                             
+CE622 ,Geometric Design of Transportation Facilities              
+CE623 ,Pavement Evaluation Rehabilitation and Maintenance         
+CE643 ,Earthquake Geotechnical Engg.                              
+CE646 ,Rock Mechanics                                             
+CE647 ,Environmental Geotechnology                                
+CE661 ,Air Quality Modeling                                       
+CE664 ,Industrial Wastewater Pollution Control                    
+CH211 ,Industrial Chemistry                                       
+CH222 ,Applied Organic Chemistry                                  
+CH224 ,Group Theory                                               
+CH232 ,Computational Chemistry                                    
+CH233 ,Spectroscopic Techniques in Chemistry                      
+CH322 ,Petroleum and Petrochemicals                               
+CH323 ,Polymer Chemistry                                          
+CH333 ,Introduction - Chemical Thermodynamics and Equilibrium     
+CH400 ,Computers and Chemistry                                    
+CH411 ,Inorganic Reaction Mechanism and Organometallics           
+CH417 ,Organometallic Chemistry                                   
+CH418 ,Biological Chemistry of Metal Ions                         
+CH419 ,Consumer Chemistry                                         
+CH421 ,Organic Reactions and Mechanisms                           
+CH428 ,Drug Design and Development                                
+CH432 ,Chemical Dynamics & Electrochemistry                       
+CH433 ,Applications of Spectroscopy                               
+CH501 ,Computers in Chemistry                                     
+CH603 ,Concept of Molecular Machine                               
+CH611 ,Bioinorganic Chemistry                                     
+CH615 ,Advanced Organometallic Chemistry                          
+CH617 ,Supramolecular Chemistry                                   
+CH621 ,New Reagents for Organic Synthesis                         
+CH623 ,Chemistry of Biological Macromolecules                     
+CH625 ,Art in Organic Syntheses                                   
+CH630 ,A Fundamental Approach - Physical Chemistry                
+CH634 ,Computational Methods in Chemistry                         
+CH637 ,Advanced Quantum Chemistry                                 
+CH640 ,Principle and Applications of Luminescence Spectroscopy    
+CH644 ,Applied Quantum Chemistry                                  
+CL205 ,Mass Transfer - I                                          
+CL206 ,Solid Fluid Operations                                     
+CL207 ,Computer Aided Numerical Methods                           
+CL208 ,Chemical Reaction Engineering- I                           
+CL209 ,Process Equipment Design                                   
+CL307 ,Transport Phenomena                                        
+CL308 ,Chemical Reaction Engg. II                                 
+CL309 ,Process Control and Instrumentation                        
+CL314 ,Numerical Methods in Chemical Engineering                  
+CL401 ,Process  Design and Project Engineering                    
+CL404 ,Material Science                                           
+CL503 ,Advanced Thermodynamics                                    
+CL504 ,Reaction Engineering                                       
+CL612 ,Colloid and Interface Science                              
+CL617 ,Petrochemicals                                             
+CL619 ,Refinery Process Design                                    
+CL622 ,Molecular Simulation: Principles and Application           
+CL623 ,Polymer Science and Technology                             
+CL625 ,Fundamentals of Micro-nano Fluidics and Micro-Fabrication  
+CL628 ,Catalysts and Adsorbents                                   
+CL630 ,Composites Materials                                       
+CL635 ,Advanced Clean Fuel Technologies                           
+CL642 ,Advanced Flow Measurement Techniques                       
+CL643 ,Computer Aided Applied Optimization                        
+CS101 ,Introduction - Computing                                   
+CS205 ,Formal Languages Automata Theory and Computation           
+CS206M,Data Structures and Algorithms                             
+CS207 ,Design and Analysis of Algorithms                          
+CS223 ,Computer Architecture and Organization                     
+CS245 ,Database Management Systems                                
+CS344 ,Databases                                                  
+CS346 ,Compilers                                                  
+CS348 ,Computer Networks                                          
+CS350M,Computer Systems                                           
+CS503 ,Randomized Algorithms                                      
+CS508 ,Optimization Methods                                       
+CS528 ,High Performance Computing                                 
+CS544 ,Topics in Networks                                         
+CS549 ,Computer & Network Security                                
+CS577 ,C-Based VLSI Design: Synthesis Optimization and Verificati 
+CS579 ,Automata Logic and Games                                   
+DD111 ,Form Order & Structure                                     
+DD112 ,Principlies of Visual Design                               
+DD212 ,Visual Narratives                                          
+DD213 ,Art and Aesthetics in Design                               
+DD214 ,Design Workshop                                            
+DD215 ,Cognitive Ergonomics                                       
+DD220M,Introduction - Ergonomics                                  
+DD311 ,Systems Approach - Design                                  
+DD312 ,Design Evaluation Methods                                  
+DD320M,Product Planning and Strategy                              
+DD324 ,Plastics & Composites                                      
+DD411 ,Design and Entrepreneurship                                
+DD499 ,Design Project IV                                          
+DD509 ,Interaction Design                                         
+DD516 ,Digital Human Modelling and Simulation in Product Design   
+DD525 ,Structural Packaging Design                                
+DD532 ,Motion Graphics                                            
+DD602 ,System Analysis & Information Design                       
+DD702 ,Indian Traditional Form in Contemprary Design  Seminar     
+DD705 ,Design Research Methods                                    
+DD710 ,Research-based Project                                     
+EE206 ,Analog Circuits                                            
+EE213M,Digital Circuits                                           
+EE230 ,Probability and Random Processes                           
+EE250 ,Control Systems                                            
+EE252 ,Measurement and Instrumentation                            
+EE322M,Signal Processing                                          
+EE333 ,Communication Networks                                     
+EE337 ,Information Theory and Coding                              
+EE340 ,Electromagnetic Theory                                     
+EE351 ,Advanced Control Systems                                   
+EE360 ,Embedded Systems                                           
+EE385 ,Power Electronics and Drives                               
+EE512 ,Analog IC Design                                           
+EE515 ,VLSI System Design                                         
+EE516 ,VLSI DSP                                                   
+EE522 ,Statistical Signal Processing                              
+EE525 ,Advanced Topics in Machine Learning                        
+EE526 ,Machine Learning                                           
+EE533 ,Wireless Communication                                     
+EE535 ,Data Communication Network                                 
+EE543 ,Computational Electromagnetics                             
+EE544 ,Photonics Devices and Circuits                             
+EE547 ,Optical Networks                                           
+EE553 ,Optimal Control                                            
+EE554 ,Nonlinear Systems and Control                              
+EE562 ,Power Electronics Applications in Power Systems            
+EE580 ,Electrical Machines and Drive Systems                      
+EE592 ,Detection and Estimation Theory                            
+EE595H,Stochastic Models                                          
+EE596H,Optimization Techniques                                    
+EE611 ,Organic Semiconductor Devices                              
+EE613 ,Radio Frequency Integrated Circuits                        
+EE621 ,Computer Vision                                            
+EE622 ,Biomedical Signal Processing                               
+EE624 ,Speech Technology                                          
+EE630 ,Mobile communication                                       
+EE638 ,Massive MIMO for 5G Communications: Design and Analysis    
+EE643 ,Silicon Photonics                                          
+EE655 ,Mathematical Techniques for Control and Signal Processing  
+EE672 ,Electrical Power Quality and Reliability                   
+EE674 ,Sychrophasor Technology                                    
+EE694 ,Introduction - Parallel Computing                          
+EE721 ,Advanced Topics in Signal Processing                       
+EN671 ,Solar Energy Conversion Technology                         
+EN674 ,Energy Efficiency Planning and Management                  
+EN675 ,Photovoltaic Devices and Systems                           
+HS113 ,Cognitive Psychology                                       
+HS114 ,Cultural Theory and Practice                               
+HS115 ,Leadership and Communication in Historical Drama           
+HS116 ,Sociology of India: Conformities and Contradictions        
+HS123 ,Game Theory and Economics                                  
+HS125 ,Macroeconomics                                             
+HS134 ,Introduction - Archaeology                                 
+HS136 ,Introduction - Indian constitution and political processes 
+HS138 ,Psychology of Well Being                                   
+HS203 ,Problems of Philosophy                                     
+HS232 ,Linguistic Analysis                                        
+HS238 ,Topics in Bilingualism                                     
+HS401 ,Management of Organizational Behaviour                     
+HS406 ,Philosophical Issues                                       
+HS409 ,Environmental Economics                                    
+HS415 ,History of Contemporary India                              
+HS420 ,Writing Systems of the World                               
+HS421 ,Sociological Perspectives on Modernity                     
+HS422 ,Subaltern Voices and Narratives                            
+HS423 ,Masculinities in Literature and Popular Culture            
+HS424 ,Economics of Uncertainty and Information                   
+HS425 ,Literature and Science Writing                             
+HS427 ,Transboundary Waters: Conflict and Cooperation             
+HS429 ,Indian Business History                                    
+HS503 ,Sociology of Development                                   
+HS517 ,Comparative Politics in Developing Countries               
+HS523 ,Economic Development: Theory and Practice                  
+HS524 ,Qualitative Research Methods in Social Sciences            
+HS525 ,Indias Development: Issues and Debates                     
+HS604 ,Development Finance                                        
+HS621 ,Public Health and Development in India                     
+HS623 ,Public Programmes and Social Accountability                
+HS625 ,Environment History of India                               
+HS702 ,Contemporary studies in Philosophy                         
+HS707 ,Invisible Exchanges                                        
+HS714 ,Understanding Organizational Behaviour: Theory and Resear  
+HS715 ,Seminar course &Psychology                                 
+HS719 ,Philosophy of Religion                                     
+HS721 ,Research in Cultural Studies                               
+HS722 ,Cultural Anthropology                                      
+HS726 ,History of Assam                                           
+HS727 ,Issues in Historical Research                              
+HS730 ,Research Methods in Sociology                              
+HS733 ,Issues in Phonological Theory                              
+HS745 ,Phonological Acquisition                                   
+HS753 ,Topics in International Relations                          
+HS767 ,The Material Text & its Other                              
+HS780 ,Understanding Social Movements                             
+HS781 ,Approaches - Diplomatic and Military History               
+MA102 ,Mathematics II                                             
+MA212M,Mathematical Statistics                                    
+MA224 ,Real Analysis                                              
+MA252 ,Design and Analysis of Algorithms                          
+MA271 ,Financial Engineering I                                    
+MA312M,Modern Algebra                                             
+MA321 ,Optimization                                               
+MA351 ,Formal Languages and Automata Theory                       
+MA373 ,Financial Engineering II                                   
+MA473 ,Computational Finance                                      
+MA477 ,Financial Risk Management And Modeling                     
+MA510 ,Combinatorics                                              
+MA512 ,Data Structures and Algorithms                             
+MA513 ,Parallel Computing                                         
+MA542 ,Differential Equation                                      
+MA547 ,Complex Analysis                                           
+MA561 ,Fluid Dynamics                                             
+MA562 ,Mathematical Modelling and Numerical Simulation            
+MA571 ,Numerical Linear Algebra                                   
+MA573 ,Numerics of Partial Differential Equations                 
+MA590 ,Probability Theory and Random Processes                    
+MA591 ,Optimization Techniques                                    
+MA597 ,Queueing Theory and Applications                           
+MA601 ,Graphs and Matrices                                        
+MA621 ,Rings and Modules                                          
+MA622 ,Galois Theory                                              
+MA625 ,Linear Algebra -1                                          
+MA641 ,Operator Theory in Hilbert Spaces                          
+MA642 ,Real Analysis -1                                           
+MA643 ,Algebraic Topology                                         
+MA651 ,Distributed Algorithms                                     
+MA662 ,Differential Equations                                     
+MA663 ,Fractional Calculus and Fractional Differential Equations  
+MA671 ,Finite Element Methods for Partial Differential Equations  
+MA683 ,Probability Theory                                         
+MA685 ,Martingales and Brownian Motion                            
+MA686 ,Random Graphs                                              
+MA687 ,Generalized Linear Models                                  
+ME101 ,Engineering Mechanics                                      
+ME221 ,Fluid Mechanics II                                         
+ME222 ,Manufacturing Technology I                                 
+ME223 ,Solid Mechanics II                                         
+ME224 ,Kinematics of Machinery                                    
+ME321 ,Applied Thermodynamics                                     
+ME322 ,Machine Design                                             
+ME323 ,Mechanical Measurements                                    
+ME324 ,Heat and Mass Transfer                                     
+ME325 ,Control Systems                                            
+ME421 ,Industrial Engineering and Operation Research              
+ME511 ,Advanced Materials and Processing                          
+ME513 ,Physics of Manufacturing Process                           
+ME522 ,Convective Heat & Mass Transfer                            
+ME541 ,Continuum Mechanics                                        
+ME542 ,Numerical Analysis                                         
+ME552 ,Aircraft Propulsion                                        
+ME553 ,Gas Dynamics                                               
+ME554 ,Rocket Propulsion                                          
+ME605 ,Fracture Fatigue and Failure Analysis                      
+ME607 ,Introduction - Composite Materials                         
+ME608 ,Computer Aided Design-Computer Aided Manufacturing         
+ME615 ,Rotor Dynamics                                             
+ME617 ,Hydrodynamic Stability and Transition - Turbulence         
+ME619 ,Fundamentals of Microfluidics                              
+ME648 ,Viscous Fluid Flow                                         
+ME657 ,Two Phase Flow & Heat Transfer                             
+ME674 ,Soft Computing in Engineering                              
+ME675 ,Advanced Welding Processes                                 
+ME682 ,Nonlinear Finite Element Methods                           
+ME688 ,Advanced Machining Processes                               
+ME696 ,Biomedical Devices and Systems                             
+PH102 ,Physics II                                                 
+PH202 ,Electromagnetics                                           
+PH204 ,Quantum Mechanics I                                        
+PH206 ,Computational Physics                                      
+PH208 ,Digital electronics and microprocessors                    
+PH282M,Engineering Optics                                         
+PH302 ,Solid State Physics                                        
+PH304 ,Engineering Optics                                         
+PH306 ,Nuclear Science and Engineering                            
+PH308 ,Measurement Techniques                                     
+PH402 ,Mathematical Physics II                                    
+PH404 ,Statistical Mechanics                                      
+PH406 ,Quantum Mechanics II                                       
+PH408 ,Numerical Methods & Computational Physics                  
+PH410 ,Electrodynamics I                                          
+PH414 ,Nanoelectronics and Nanophotonics                          
+PH446 ,Fundamentals of Astrophysics                               
+PH458 ,Applied superconductivity                                  
+PH465 ,Optoelectronics                                            
+PH521 ,Topics in condensed matter Physics                         
+PH522 ,Physics of Semiconductors                                  
+PH525 ,Optoelectronic devices                                     
+PH534 ,Fibre Optics                                               
+PH541 ,Quantum Computation and Quantum Information                
+PH543 ,Quantum Field Theory                                       
+PH544 ,High Energy Physics                                        
+PH702 ,Statistical methods in condensed matter physics            
+PH704 ,Guided and Fourier wave optics                             
+PH706 ,Gravitation and cosmology                                  
+RT514 ,Water Resources Management                                 
+RT515 ,Natural Resources Management                               
+RT517 ,Agri-horticultural Produce Processing Technology           
+RT520 ,Field Work and Effective Communication                     

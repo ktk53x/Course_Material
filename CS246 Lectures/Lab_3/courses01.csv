@@ -1,0 +1,63 @@
+4,HS101,HSS1-1,3,0,0,6
+3,SA201,Students Activity Course-2,0,0,2,0
+5,XX105M,Minor-3,3,0,0,6
+2,CS101,Introduction to Computing,3,0,0,6
+1,MA101,Mathematics-1,3,1,0,8
+6,XX101M,Minor-4,3,0,0,6
+7,CS401,Elective 7.2,3,0,0,6
+4,CS223,Computer Architecture and Organization,3,0,0,6
+3,CS221,Digital Design,3,0,0,6
+6,CS405,Departmental Elective Lab 6.3,0,1,3,5
+4,CS245,Database Management Systems,3,0,0,6
+8,CS499,BTP Phase - 2,0,0,12,12
+5,CS344,Operating Systems Lab,0,0,4,4
+8,OE201,Open Elective 3,3,0,0,6
+5,CS343,Operating Systems,3,0,0,6
+8,HS202,HSS-2-2,3,0,0,6
+3,XX103M,Minor-1,3,0,0,6
+2,BT101,Introductory Biology,3,0,0,6
+2,EE110,Basic Electronics Laboratory,0,0,3,3
+4,CS205,Formal Languages Automata Theory and Computation,3,0,0,6
+2,MA102,Mathematics-2,3,1,0,8
+1,HS100,English Communication,2,0,2,0
+2,ME110,Workshop/PH110 Physics Lab,0,0,3,3 
+2,SA101,Students Activity Course-1,0,0,2,0
+8,OE202,Open Elective 4,3,0,0,6
+1,CH101,Chemistry,3,1,0,8
+7,HS201,HSS-2-1,3,0,0,6
+7,XX102M,Minor 5,3,0,0,6
+2,CS110,Computing Lab,0,0,3,3
+8,CS402,Elective 8.1,3,0,0,6
+4,XX104M,Minor-2,3,0,0,6
+7,OE102,Open Elective 2/CS101 Elective 7.1,3,0,0,6
+5,SA401,Students Activity Course-4,0,0,2,0
+1,PH101,Physics-1,2,1,0,6
+6,CS348,Implementation of Programming Languages Lab,0,2,3,7
+5,CS341,Computer Networks,3,0,0,6
+5,CS501,Departmental Elective 5.1,3,0,0,6
+4,SA301,Students Activity Course-3,0,0,2,0
+5,HS102,HSS1-2,3,0,0,6
+3,CS204,Algorithms and Data Structures Lab,0,1,3,5
+3,CS203,Algorithms and Data Structures,3,0,0,6
+1,PH110,Physics Lab/ME110 Workshop,0,0,3,3
+4,CS224,Hardware Lab,0,1,4,6
+1,ME111,Engineering Drawing,2,0,3,7
+1,EE101,Basic Electronics,3,1,0,8
+5,CS342,Computer Networks Lab,0,0,4,4
+1,CH110,Chemistry Lab,0,0,3,3
+4,CS246,Database Management Systems Lab,0,0,4,4
+3,CS242,System Software Lab,0,1,3,5
+6,CS346,Software Engineering Lab,0,0,3,3
+7,CS498,BTP Phase - 1,0,0,12,12
+2,ME101,Engineering Mechanics,3,1,0,8
+3,CS201,Discrete Mathematics,3,0,0,6
+2,PH102,Physics-2,2,1,0,6
+3,MA225,Probability Theory and Random Processes,3,1,0,8
+5,MA321,Optimization,3,0,0,6
+6,CS361,Machine Learning,3,0,0,6
+6,CS345,Software Engineering,2,0,0,4
+6,CS403,Departmental Elective 6.1,3,0,0,6
+6,CS404,Departmental Elective 6.2,3,0,0,6
+4,CS207,Design and Analysis of Algorithms,3,0,0,6
+7,OE101,Open Elective 1,3,0,0,6
+3,MA222,Elementary Number Theory and Algebra,3,0,0,6
