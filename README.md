@@ -1,6 +1,6 @@
 # Course_Material
-Lecture slides and other course material
-CS201 - Discrete Maths
+Lecture slides and other course material  
+CS201 - Discrete Maths  
 CS203 - Data Structure and Algorithms
 CS205 - FLAT
 CS207 - Algorithms
