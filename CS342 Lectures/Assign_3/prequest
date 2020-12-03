@@ -1,0 +1,12 @@
+#!/bin/bash
+if [ "$#" -eq 2 ]
+then
+	echo "RUNNING 10 CLIENTS PARALLELY"
+	for i in {1..10}
+	do
+		./client $1 $2	&
+	done
+else
+	echo "Usage: ./prequest <IP_ADDR>... <PORT_NO>..."
+	echo "Please Try Again..... "	
+fi
