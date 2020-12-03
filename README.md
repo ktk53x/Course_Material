@@ -17,5 +17,5 @@ CS342 - Computer Networks Lab
 CS343 - Operating Systems  
 CS344 - Operating Systems Lab  
 CS561 - Artificial Intelligence  
-HS120 - Language, Culture and Cognition 
+HS120 - Language, Culture and Cognition  
 PH441 - Quantum Computing
