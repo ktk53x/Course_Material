@@ -1,0 +1,51 @@
+1000      COPY      START     1000      
+1000      FIRST     STL       RETADR    141033    
+1003      CLOOP     JSUB      RDREC     482039    
+1006                LDA       LENGTH    001036    
+1009                COMP      ZERO      281030    
+100C                JEQ       ENDFIL    301015    
+100F                JSUB      WRREC     482061    
+1012                J         CLOOP     3C1003    
+1015      ENDFIL    LDA       EOF       00102A    
+1018                STA       BUFFER    0C1039    
+101B                LDA       THREE     00102D    
+101E                STA       LENGTH    0C1036    
+1021                JSUB      WRREC     482061    
+1024                LDL       RETADR    081033    
+1027                RSUB                4C0000    
+102A      EOF       BYTE      C'EOF'    454F46    
+102D      THREE     WORD      3         000003    
+1030      ZERO      WORD      0         000000    
+1033      RETADR    RESW      1                   
+1036      LENGTH    RESW      1                   
+1039      BUFFER    RESB      4096                
+ .                            
+ .        SUBROUTINE          
+ .                            
+2039      RDREC     LDX       ZERO      041030    
+203C                LDA       ZERO      001030    
+203F      RLOOP     TD        INPUT     E0205D    
+2042                JEQ       RLOOP     30203F    
+2045                RD        INPUT     D8205D    
+2048                COMP      ZERO      281030    
+204B                JEQ       EXIT      302057    
+204E                STCH      BUFFER,X  549039    
+2051                TIX       MAXLEN    2C205E    
+2054                JLT       RLOOP     38203F    
+2057      EXIT      STX       LENGTH    101036    
+205A                RSUB                4C0000    
+205D      INPUT     BYTE      X'F1'     F1        
+205E      MAXLEN    WORD      4096      001000    
+.         
+.         SUBROUTINE TO WRITE RECORD FROM BUFFER
+.         
+2061      WRREC     LDX       ZERO      041030    
+2064      WLOOP     TD        OUTPUT    E02079    
+2067                JEQ       WLOOP     302064    
+206A                LDCH      BUFFER,X  509039    
+206D                WD        OUTPUT    DC2079    
+2070                TIX       LENGTH    2C1036    
+2073                JLT       WLOOP     382064    
+2076                RSUB                4C0000    
+2079      OUTPUT    BYTE      X'05'     05        
+                    END       FIRST     
